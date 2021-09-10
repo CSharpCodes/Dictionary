@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <dictionary name="Русско-английский">
+    <word original="Слово1" translation1="translation1-1" translation2="translation2-1" />
+    <word original="Слово2" translation1="translation1-2" translation2="translation2-2" />
+    <word original="Слово3" translation1="translation1-3" translation2="translation2-3" />
+  </dictionary>
+  <dictionary name="Англо-русский">
+    <word original="Test1" translation1="перевод1-1" translation2="перевод2-1" />
+    <word original="Test2" translation1="перевод1-2" translation2="перевод2-2" />
+    <word original="Test3" translation1="перевод1-3" translation2="перевод2-3" />
+    <word original="Hello" translation1="привет" />
+    <word original="World" translation2="Мир" />
+  </dictionary>
+</catalog>

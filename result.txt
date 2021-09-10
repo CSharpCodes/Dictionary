@@ -1,0 +1,4 @@
+
+  Слово: Слово4, перевод1: translation1-4, перевод2: translation2-4
+  Слово: Слово5, перевод1: translation1-5, перевод2: translation2-5
+  Слово: World, перевод1: Мир
